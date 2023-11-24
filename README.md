@@ -1,6 +1,6 @@
 # AI_X_DEEPLEARNING
 
-### Title: Global YouTube Statistics 2023
+### Title: Top 1000 유튜버들을 분석하고 연수입 예측해보기
 
 ### Members:
           김재윤, 수학과, flhbigfamily7@gmail.com
