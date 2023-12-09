@@ -5,7 +5,7 @@
 ### Members:
           김재윤, 수학과, flhbigfamily7@gmail.com
           최성원, 기계공학부 davdev3411@gmail.com
-          임정성, 신소재공학부 wiuand@gmail.com
+          임정섭, 신소재공학부 wiuand@gmail.com
 
 
 ## Index
