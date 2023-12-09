@@ -404,8 +404,9 @@ https://signature95.tistory.com/46
 + 다음으로 선형회귀의 다른종류이고 과적합방지에 더 특화된 모델인 ridge regression을 이용해 다중선형회귀분석을 해보니, linear regression보다 test셋에서 좀더 안좋은 성능을 확인할수 있었지만 사실상 큰 차이가 없었습니다. 따라서 이 데이터셋에선 linear regression이나 ridge regression 뭘 써도 상관없다는 결론을 냈습니다.
 
 ## Youtube Link: https://www.youtube.com/watch?v=Yx9jhVfZLJQ
-##               https://www.youtube.com/watch?v=t6_-yx-gCc8 
+## Youtube Link: https://www.youtube.com/watch?v=t6_-yx-gCc8 
+## 아래 링크는 데이터 전처리 -> xgboost 모델 -> 하이퍼파라미터 최적화 -> feature 중요도를 구하는 과정에 관한 임정섭님의 설명영상 입니다.         
 
 ### 김재윤 : YouTube recording, Blog Processing
 ### 최성원 : Code Implementation, Visualization
-### 임정성 : Data Preprocessing, Analysis
+### 임정섭 : Data Preprocessing, Analysis
